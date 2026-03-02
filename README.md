@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/HTML5-FF79C6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-FF79C6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-FF79C6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-FF79C6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
