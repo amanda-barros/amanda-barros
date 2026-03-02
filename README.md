@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:amandabarrosmandy@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-291B3E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/amanda-barros-manda/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
