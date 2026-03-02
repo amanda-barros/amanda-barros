@@ -27,7 +27,7 @@
   My goal is to contribute to challenging projects where I can add technical value while continuing to grow professionally.
 </p>
 <p align="justify">
-  Main Stack: JavaScript, React, Node.js, HTML, CSS, Git (you can adjust this to match your actual stack)
+  Main Stack: JavaScript, React, Node.js, HTML, CSS, Git.
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanda-barros&theme=omni) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanda-barros&theme=omni)  |
